@@ -179,7 +179,7 @@
 
 @media (max-width: 380px) {
     main{
-        min-height: 90vh;
+        min-height: 110vh;
     }
     .wwlthfy-text h5{
         font-size: 1.2rem;
